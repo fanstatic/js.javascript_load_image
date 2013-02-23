@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+1.2.3
+-----
+
+-   Initial release.
